@@ -33,7 +33,6 @@ export default function Features() {
 
             <div className="grid md:grid-cols-3 gap-8">
                 {features.map((item, index) => {
-                    // const Icon = item.icon;
                     return (
                         <div
                             key={index}

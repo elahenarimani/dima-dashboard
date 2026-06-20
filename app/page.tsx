@@ -13,7 +13,7 @@ export default function Home() {
       </main>
       <footer className="border-t border-slate-200/60 bg-white/60 backdrop-blur-md py-8 mt-12">
         <div className="max-w-6xl mx-auto px-4 text-center text-sm font-medium text-slate-500">
-           CoreApp Management Platform. All rights reserved.
+          CoreApp Management Platform. All rights reserved.
         </div>
       </footer>
     </div>
